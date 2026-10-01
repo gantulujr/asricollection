@@ -1,0 +1,8 @@
+{
+  "name": "Remix Asri Collection",
+  "description": "Aplikasi e-commerce luxury fashion mobile-first untuk pakaian, tas, dan sepatu desainer dengan integrasi Duitku checkout, live tracking, dan livechat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "summary":  "Architectural blueprint and user experience plan for Asri Collection mobile-first e-commerce app. Includes product catalog integration with Supabase get-asri endpoint, Duitku invoice & payment simulation engine, real-time customer and admin LiveChat, multi-stage order tracking, and PIN-secured admin portal (677677).",
+  "updatedAt":  "2026-10-01T12:23:13.930990851Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
